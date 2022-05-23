@@ -1,0 +1,4 @@
+2022-05-17T13:37:58+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-object-cache.php on line 446
+
+2022-05-17T13:48:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-object-cache.php on line 446
+

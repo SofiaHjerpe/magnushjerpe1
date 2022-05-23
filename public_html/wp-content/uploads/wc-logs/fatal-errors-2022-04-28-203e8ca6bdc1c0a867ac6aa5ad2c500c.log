@@ -1,0 +1,217 @@
+2022-04-28T19:31:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:32:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:32:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:34:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:34:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:35:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:35:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:36:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:37:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:42:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:42:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:42:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:42:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:42:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:43:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:43:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:44:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:44:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:46:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:46:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:46:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:47:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:47:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:49:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:50:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:51:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:51:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:51:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:51:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:52:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+
+2022-04-28T19:52:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function {closure}(), 3 passed in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php on line 307 and exactly 4 expected in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php:319
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): {closure}(Array, Object(WP_Post), Object(stdClass))
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/mobile-menu/includes/class-wp-mobile-menu-walker-nav-menu.php(34): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-walker.php(146): WP_Mobile_Menu_Walker_Nav_Menu->start_el('', Object(WP_Post), 0, in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/themes/blocksy/inc/components/menus.php on line 319
+

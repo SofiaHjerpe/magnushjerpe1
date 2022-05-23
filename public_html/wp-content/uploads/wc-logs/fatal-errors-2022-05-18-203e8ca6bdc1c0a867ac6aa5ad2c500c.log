@@ -1,0 +1,26 @@
+2022-05-18T10:35:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:36:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:38:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:38:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/wp-db.php on line 2128
+
+2022-05-18T10:40:30+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:45:05+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:45:18+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:47:59+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T10:49:42+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T11:06:08+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T11:13:23+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T11:14:05+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1190
+
+2022-05-18T11:15:29+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/meta.php on line 1186
+

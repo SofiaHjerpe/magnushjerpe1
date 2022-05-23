@@ -1,0 +1,18 @@
+2022-05-11T10:21:36+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2097152 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/functions.php on line 4195
+
+2022-05-11T10:24:00+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2097152 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/functions.php on line 4195
+
+2022-05-11T10:24:57+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2097152 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/functions.php on line 4195
+
+2022-05-11T10:26:25+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 12587008 bytes) in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/functions.php on line 4195
+
+2022-05-11T17:41:37+00:00 CRITICAL Uncaught Error: Class 'Blocksy\CacheResetManager' not found in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/blocksy-companion/plugin.php:65
+Stack trace:
+#0 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(307): Blocksy\Plugin->init('')
+#1 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-settings.php(587): do_action('init')
+#4 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-config.php(96): require_once('/www/webvol35/e...')
+#5 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-load.php(50): require_once('/www/webvol35/e...')
+#6 /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-admin/admin-ajax.php(22): require_once('/ww in /www/webvol35/ei/mdc0kp488wig52b/magnushjerpe.com/public_html/wp-content/plugins/blocksy-companion/plugin.php on line 65
+
